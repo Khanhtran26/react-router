@@ -15,6 +15,11 @@ const menus = [{
       name : 'Liên hệ',
       to : '/contact',
       isactive : false
+    },
+    {
+      name : 'New Link',
+      to : '/contact',
+      isactive : false
     }
 ]
 
