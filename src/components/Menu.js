@@ -17,8 +17,8 @@ const menus = [{
       isactive : false
     },
     {
-      name : 'New Link',
-      to : '/contact',
+      name : 'Sản phẩm',
+      to : '/product',
       isactive : false
     }
 ]
